@@ -18,7 +18,13 @@
       "light": "#f0f0f0"
     }
   },
-  "banner": "🚀 Welcome to DockitAI!",
+  "banner": {
+    "message": "🚀 Welcome to DockitAI!",
+    "colors": {
+      "light": "#3A8DDE",
+      "dark": "#655DC6"
+    }
+  },
   "navbar": [
     {
       "type": "link",
@@ -83,25 +89,20 @@
                 "title": "Advanced Topics",
                 "children": [
                   {
-                    "type": "group",
-                    "title": "Customization",
-                    "children": [
-                      {
-                        "type": "page",
-                        "title": "Themes",
-                        "page": "/v1/guides/advanced_topics/customization/themes.mdx"
-                      },
-                      {
-                        "type": "page",
-                        "title": "Components",
-                        "page": "/v1/guides/advanced_topics/customization/components.mdx"
-                      }
-                    ]
+                    "type": "page",
+                    "title": "Themes",
+                    "page": "/v1/guides/advanced_topics/themes.mdx"
                   },
                   {
                     "type": "page",
+                    "title": "Components",
+                    "page": "/v1/guides/advanced_topics/components.mdx"
+                  },
+                    
+                  {
+                    "type": "page",
                     "title": "CLI Reference",
-                    "page": "/v1/guides/cli.mdx"
+                    "page": "/v1/guides/advanced_topics/cli.mdx"
                   }
                 ]
               }
