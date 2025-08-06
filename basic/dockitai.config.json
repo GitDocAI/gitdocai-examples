@@ -1,5 +1,5 @@
 {
-  "name": "DockitAI Example",
+  "name": "GitDocAI Example",
   "description": "AI-powered documentation for modern teams.",
   "theme": "basic",
   "colors": {
@@ -19,7 +19,7 @@
     }
   },
   "banner": {
-    "message": "🚀 Welcome to DockitAI!",
+    "message": "🚀 Welcome to GitDocAI!",
     "colors": {
       "light": "#3A8DDE",
       "dark": "#655DC6"
@@ -29,34 +29,34 @@
     {
       "type": "link",
       "label": "Support",
-      "reference": "https://support.dockitai.com"
+      "reference": "https://support.gitdocai.com"
     },
     {
       "type": "button",
       "label": "Online Demo",
-      "reference": "https://dockitai.com/demo"
+      "reference": "https://gitdocai.com/demo"
     }
   ],
   "footer": [
     {
       "type": "x",
-      "reference": "https://x.com/dockitai"
+      "reference": "https://x.com/gitdocai"
     },
     {
       "type": "github",
-      "reference": "https://github.com/dockitai"
+      "reference": "https://github.com/gitdocai"
     },
     {
       "type": "linkedin",
-      "reference": "https://www.linkedin.com/company/dockitai/"
+      "reference": "https://www.linkedin.com/company/gitdocai/"
     },
     {
       "type": "facebook",
-      "reference": "https://www.facebook.com/dockitai"
+      "reference": "https://www.facebook.com/gitdocai"
     },
     {
       "type": "youtube",
-      "reference": "https://www.youtube.com/@dockitai"
+      "reference": "https://www.youtube.com/@gitdocai"
     }
   ],
 
